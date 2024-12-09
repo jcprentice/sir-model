@@ -1,2 +1,5 @@
 # sir-model
-Coding an SIR model in R
+
+Created 9 Dec 2024
+
+Coding an SIR model in R.
